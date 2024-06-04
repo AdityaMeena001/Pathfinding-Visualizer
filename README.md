@@ -10,15 +10,16 @@ This project is a visualizer of the path finding algorithms A*, Dijkstra's, and 
 4. Press the "Start" button or press the space bar to start the path finding algorithm.
 5. Watch the paths being generated.
 
-## Screenshots
-
-![Screenshot 1](./screenshots/screenshot1.png)
 
 ## Video
 
 Here is a video of the simulation running:
 
 <video src="./video.mp4" controls></video>
+
+
+https://github.com/AdityaMeena001/Pathfinding-Visualizer/assets/84713526/4f809dc5-3e72-4ca9-9534-29939ee2355c
+
 
 ## Implementation
 
